@@ -50,7 +50,7 @@ Tailwind CSS
 
 # Setup Instructions
 
-Clone this repository: git clone https://github.com/SambitAmanta/social-media-app.git
+Clone this repository: git clone [https://github.com/SambitAmanta/social-media-app.git](https://github.com/SambitAmanta/social-media-platform.git)
 
 Install dependencies: npm install 
 
