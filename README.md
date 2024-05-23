@@ -1,8 +1,10 @@
 
 # Social Media Application
+
 This project is a social media application focused on user experience and content discovery.
 
 # Features
+
 User Authentication: 
 Secure user login and registration with Clerk.
 
@@ -34,25 +36,20 @@ Allow users to share temporary photo and video stories.
 
 # Technologies Used
 
-Node.js
+React.js
 
-Next.js
+Appwrite
+
+React Query
 
 TypeScript
 
-TailwindCSS
-
-Stripe
-
-Zod
-
-React Hook Form
-
 Shadcn
 
-uploadthing
+Tailwind CSS
 
 # Setup Instructions
+
 Clone this repository: git clone https://github.com/SambitAmanta/social-media-app.git
 
 Install dependencies: npm install 
